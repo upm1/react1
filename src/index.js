@@ -4,7 +4,7 @@ import './index.css';
 
 
 import Tome from './componentes/home';
-
+import './index.css';
 
 
 ReactDOM.render(
